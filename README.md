@@ -11,5 +11,6 @@ This allows easy extensibility by adding further 2-channel VC-panner boards moun
 
 I replaced the original non-backlit VU meter with one which can be illuminated, and soldered a 2 pin header to the back of the main power input connection with flying leads to the resistor/LED positioned behind the meter.
 
-The 
+The [schematic](https://github.com/clarionut/YuSynth-Panning-Mixer-Output/tree/main/Schematic) folder contains PDFs of the schematic and layout for the VC-panner boards (A) and the motherboard (B). The Kicad projects for these are in their own individual subfolders.
 
+I've also include the [gerbers](https://github.com/clarionut/YuSynth-Panning-Mixer-Output/tree/main/Gerbers) in case these are of direct use to anyone.
