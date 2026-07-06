@@ -1,5 +1,6 @@
 # YuSynth Panning Mixer/Output
 An extensible version of the YuSynth Output mixer &amp; VC-panner, minus the tone control circuitry.
+
 <img height=80% width=80% alt="image" src="https://github.com/user-attachments/assets/8300efa6-a854-46d0-918f-058112d55203" />
 
 Very early in the construction of my modular synth it became obvious that I was going to need a multi-channel mixer as an output stage. I'd already built a few YuSynth modules, so his [Mixout-VC Panner](https://yusynth.net/Modular/EN/MIXOUT/index.html) seemed like a promising choice especially as I had an old dual VU meter which could be pressed into service.
